@@ -12,3 +12,18 @@ C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\D
 C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.pdb
 C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.genruntimeconfig.cache
 C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\ref\0_Framework.dll
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.deps.json
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.runtimeconfig.json
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.dll
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.pdb
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.csproj.AssemblyReference.cache
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfoInputs.cache
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfo.cs
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.sourcelink.json
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.dll
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\refint\0_Framework.dll
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.pdb
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.genruntimeconfig.cache
+E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\ref\0_Framework.dll

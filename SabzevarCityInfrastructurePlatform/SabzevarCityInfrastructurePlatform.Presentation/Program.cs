@@ -33,7 +33,7 @@ var connectionString = builder.Configuration.GetConnectionString("SCIP_Database"
 
 #region Configure Bootstrapper classes 
 
-AuthentionSystemBootstrapper.Configure(builder.Services,connectionString);
+AuthenticationSystemBootstrapper.Configure(builder.Services,connectionString);
 
 
 #endregion

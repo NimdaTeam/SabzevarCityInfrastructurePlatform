@@ -1,4 +1,4 @@
-﻿@model IEnumerable<NimdaStockAuditCopilot.BusinessLogicLayer.DTO.AllUsersViewModel>
+﻿@model IEnumerable<AuthenticationSystem.Domain.User.Users>
 
 @{
     ViewData["title"] = "مدیریت کاربران";
@@ -26,8 +26,8 @@
                 <!--begin::Table head-->
                 <thead>
                     <tr class="fw-bold text-muted bg-light">
-                        <th class="ps-4 min-w-125px rounded-start">نام کاربری</th>
-                        <th class="min-w-125px">شعبه</th>
+                        <th class="ps-4 min-w-125px rounded-start">نام و نام خانوادگی</th>
+                        <th class="min-w-125px">شماره تماس</th>
                         <th class="min-w-125px">سطح دسترسی</th>
                         <th class="min-w-125px text-end rounded-end"> عملیات</th>
                     </tr>
@@ -42,29 +42,33 @@
                             <td>
                                 <div class="d-flex align-items-center">
                                     <div class="d-flex justify-content-start flex-column">
-                                        <span class="text-gray-900 fw-bold text-hover-primary mb-1 fs-6">@item.Username</span>
+                                        <span class="text-gray-900 fw-bold text-hover-primary mb-1 fs-6">@item.FullName</span>
                                     </div>
                                 </div>
                             </td>
 
                             <td>
-                                <span class="badge badge-light-primary fs-7 fw-bold">@item.Stock</span>
+                                <span class="badge badge-light-primary fs-7 fw-bold">@item.PhoneNumber</span>
                             </td>
                             
-                            @if (item.RoleId == 1)
+                            @if (item.Roles.Count != 0)
                             {
+                                var roles = "";
+                                foreach (var r in item.Roles)
+                                {
+                                    roles += r.Name + " - ";
+                                }
+
                                 <td>
-                                    <span class="badge badge-light-success fs-7 fw-bold">مدیریت</span>
+                                    <span class="badge badge-light-success fs-7 fw-bold">@roles</span>
                                 </td>
                             }
                             else
                             {
                                 <td>
-                                    <span class="badge badge-light-primary fs-7 fw-bold">کاربر سیستم</span>
+                                    <span class="badge badge-light-success fs-7 fw-bold">-</span>
                                 </td>
                             }
-
-
 
                             <td class="text-end">
                                 <button class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1 EditUserModalTrigger" data-id="@item.Id">

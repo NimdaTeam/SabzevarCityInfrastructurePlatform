@@ -22,6 +22,11 @@ namespace AuthenticationSystem.Infrastructure
 
         public DbSet<UserRoles> UserRoles { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+	        base.OnModelCreating(modelBuilder);
+        }
+
         public AuthenticationSystemContext(DbContextOptions<AuthenticationSystemContext> options): base(options) { }
     }
 }
