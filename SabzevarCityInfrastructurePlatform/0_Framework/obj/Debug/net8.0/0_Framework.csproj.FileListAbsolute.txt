@@ -1,0 +1,14 @@
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.deps.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.runtimeconfig.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.csproj.AssemblyReference.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfoInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfo.cs
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\refint\0_Framework.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\0_Framework.genruntimeconfig.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\0_Framework\obj\Debug\net8.0\ref\0_Framework.dll

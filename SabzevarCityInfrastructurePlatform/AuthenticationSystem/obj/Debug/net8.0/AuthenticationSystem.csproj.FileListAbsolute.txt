@@ -1,0 +1,17 @@
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\bin\Debug\net8.0\AuthenticationSystem.deps.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\bin\Debug\net8.0\AuthenticationSystem.runtimeconfig.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\bin\Debug\net8.0\AuthenticationSystem.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\bin\Debug\net8.0\AuthenticationSystem.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\bin\Debug\net8.0\0_Framework.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.csproj.AssemblyReference.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.AssemblyInfoInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.AssemblyInfo.cs
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.csproj.CoreCompileInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\Authenti.EF17B307.Up2Date
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\refint\AuthenticationSystem.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\AuthenticationSystem.genruntimeconfig.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\AuthenticationSystem\obj\Debug\net8.0\ref\AuthenticationSystem.dll

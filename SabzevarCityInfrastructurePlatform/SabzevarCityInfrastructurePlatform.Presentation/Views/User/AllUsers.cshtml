@@ -1,0 +1,153 @@
+﻿@model IEnumerable<NimdaStockAuditCopilot.BusinessLogicLayer.DTO.AllUsersViewModel>
+
+@{
+    ViewData["title"] = "مدیریت کاربران";
+}
+
+<div class="card mb-5 mb-xl-8">
+    <!--begin::Header-->
+    <div class="card-header border-0 pt-5">
+        <h3 class="card-title align-items-start flex-column">
+            <span class="card-label fw-bold fs-3 mb-1">لیست کاربران</span>
+        </h3>
+        <div class="card-toolbar">
+            <button id="AddUserModalTrigger" class="btn btn-sm btn-light-primary">
+                <i class="ki-duotone ki-plus fs-2"></i>کاربر جدید
+            </button>
+        </div>
+    </div>
+    <!--end::Header-->
+    <!--begin::Body-->
+    <div class="card-body py-3">
+        <!--begin::Table container-->
+        <div class="table-responsive">
+            <!--begin::Table-->
+            <table class="table align-middle gs-0 gy-4">
+                <!--begin::Table head-->
+                <thead>
+                    <tr class="fw-bold text-muted bg-light">
+                        <th class="ps-4 min-w-125px rounded-start">نام کاربری</th>
+                        <th class="min-w-125px">شعبه</th>
+                        <th class="min-w-125px">سطح دسترسی</th>
+                        <th class="min-w-125px text-end rounded-end"> عملیات</th>
+                    </tr>
+                </thead>
+                <!--end::Table head-->
+                <!--begin::Table body-->
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center">
+                                    <div class="d-flex justify-content-start flex-column">
+                                        <span class="text-gray-900 fw-bold text-hover-primary mb-1 fs-6">@item.Username</span>
+                                    </div>
+                                </div>
+                            </td>
+
+                            <td>
+                                <span class="badge badge-light-primary fs-7 fw-bold">@item.Stock</span>
+                            </td>
+                            
+                            @if (item.RoleId == 1)
+                            {
+                                <td>
+                                    <span class="badge badge-light-success fs-7 fw-bold">مدیریت</span>
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <span class="badge badge-light-primary fs-7 fw-bold">کاربر سیستم</span>
+                                </td>
+                            }
+
+
+
+                            <td class="text-end">
+                                <button class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1 EditUserModalTrigger" data-id="@item.Id">
+                                    <i class="fa fa-edit fs-2"></i>
+                                </button>
+                                <a href="/DeleteUser/@item.Id" class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm">
+                                    <i class="fa fa-trash fs-2"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+
+
+                </tbody>
+                <!--end::Table body-->
+            </table>
+            <!--end::Table-->
+        </div>
+        <!--end::Table container-->
+    </div>
+    <!--begin::Body-->
+</div>
+
+
+<div class="modal fade" id="AddUserModal" tabindex="-1" aria-hidden="true" style="display: none;">
+</div>
+
+<div class="modal fade" id="UpdateUserModal" tabindex="-1" aria-hidden="true" style="display: none;">
+</div>
+
+
+@section scripts
+{
+
+    <script>
+        $(document).ready(function () {
+            // Event listener for the button click
+            $('#AddUserModalTrigger').click(function (event) {
+                // Prevent default behavior (link navigation)
+                event.preventDefault();
+
+                // Get the data-id attribute from the button
+                //var id = $(this).data('id');
+
+                // Make an AJAX request to load the partial view
+                $.ajax({
+                    url: '@Url.Action("AddUser", "User")', // Replace with your controller name
+                    type: 'GET',
+                    success: function (result) {
+                        // Inject the partial view content into the modal body
+                        $('#AddUserModal').html(result);
+                        // Show the modal
+                        $('#AddUserModal').modal('show');
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(error);
+                    }
+                });
+            });
+
+
+            $('.EditUserModalTrigger').click(function (event) {
+                // Prevent default behavior (link navigation)
+                event.preventDefault();
+
+                // Get the data-id attribute from the button
+                var id = $(this).data('id');
+
+                // Make an AJAX request to load the partial view
+                $.ajax({
+                    url: "/UpdateUser/" + id, // Replace with your controller name
+                    type: 'GET',
+                    success: function (result) {
+                        // Inject the partial view content into the modal body
+                        $('#UpdateUserModal').html(result);
+                        // Show the modal
+                        $('#UpdateUserModal').modal('show');
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(error);
+                    }
+                });
+            });
+        });
+    </script>
+}

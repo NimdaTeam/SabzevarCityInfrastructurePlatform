@@ -1,0 +1,11 @@
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.deps.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.AssemblyInfo.cs
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\refint\SabzevarCityInfrastructurePlatform.Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\SabzevarCityInfrastructurePlatform.Domain.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\ref\SabzevarCityInfrastructurePlatform.Domain.dll

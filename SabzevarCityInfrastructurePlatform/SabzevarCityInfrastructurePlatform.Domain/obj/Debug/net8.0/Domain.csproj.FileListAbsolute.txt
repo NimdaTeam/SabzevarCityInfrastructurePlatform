@@ -1,0 +1,17 @@
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\0_Framework.dll
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\mohse\source\repos\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Domain\obj\Debug\net8.0\Domain.csproj.Up2Date

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebHost
+build_property.RootNamespace = WebHost
+build_property.ProjectDir = E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Presentation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\PROGRAMMING PROJECTS\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform\SabzevarCityInfrastructurePlatform.Presentation
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Shared/_AccountLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Shared/_DesktopMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZXNrdG9wTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Shared/_MobileMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb2JpbGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Shared/_SharedLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaGFyZWRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/Shared/_UserNotifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/User/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/User/AllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBbGxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/User/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROGRAMMING PROJECTS/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform/SabzevarCityInfrastructurePlatform.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
